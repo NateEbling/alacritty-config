@@ -1,0 +1,21 @@
+import = ["~/AppData/Roaming/alacritty/themes/solarized_dark.toml"]
+
+live_config_reload = true
+
+working_directory = "C:/Users/eblin"
+
+[window]
+dimensions = { columns = 170, lines = 45}
+position = { x = 100, y = 100 }
+
+[shell]
+program = "powershell"
+
+[font]
+size = 13
+
+[font.normal]
+family = "monospace"
+style = "Regular"
+
+
