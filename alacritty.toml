@@ -6,7 +6,6 @@ working_directory = "C:/Users/eblin"
 
 [window]
 dimensions = { columns = 170, lines = 45}
-position = { x = 100, y = 100 }
 
 [shell]
 program = "powershell"
@@ -14,8 +13,5 @@ program = "powershell"
 [font]
 size = 13
 
-[font.normal]
-family = "monospace"
-style = "Regular"
 
 
